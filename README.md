@@ -89,3 +89,9 @@ Main channels:
 ## Privacy Note
 
 This repository is a portfolio case study. Sensitive business details such as complete formula ratios, customer information, private WhatsApp conversations and supplier-sensitive details are not publicly disclosed.
+
+## Evidence Note
+
+The uploaded final report and pitch deck document the venture role structure, market problem, product positioning, first-batch sales, reinvestment, unit economics, Meta ads test, nutritionist referral model and second-cycle expansion planning.
+
+The repository is maintained as a public portfolio case study. Sensitive information such as full formula ratios, private customer records, supplier-sensitive details and internal WhatsApp conversations are intentionally excluded.
